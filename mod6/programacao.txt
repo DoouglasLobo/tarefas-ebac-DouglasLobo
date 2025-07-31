@@ -1,0 +1,29 @@
+1. O despertador toca às 7h da manhã.
+
+2. Verifico se estou com sono:
+
+  * Se sim, coloco no modo soneca por 10 minutos.
+
+  * Se não, sigo para o próximo passo.
+
+3. Abro os olhos lentamente.
+
+4. Me espreguiço na cama.
+
+5. Pego o celular e verifico as notificações.
+
+6. Me levanto da cama com calma.
+
+7. Vou ao banheiro escovar os dentes.
+
+8. Lavo o rosto para despertar melhor.
+
+9. Troco de roupa.
+
+10. Preparo um café ou chá.
+
+11. Me sento e tomo o café da manhã.
+
+12. Dou uma olhada rápida nos compromissos do dia.
+
+13. Me organizo para iniciar as tarefas.
